@@ -134,3 +134,40 @@ https://tryhackme.com/room/hydra
 https://tryhackme.com/room/crackthehash
 
 https://tryhackme.com/room/crackthehashlevel2
+```python
+```
+
+**Cryptography:-**
+
+https://www.hackthebox.eu/home/challenges/Crypto
+```python
+```
+
+**Steganography:-**
+
+https://www.hackthebox.eu/home/challenges/Stego
+```python
+```
+
+**Brutforce:-**
+
+https://www.youtube.com/watch?v=fdb3U2EFLzo
+```python
+```
+
+**Example Questions**
+**(I can't disclose real questions for NDA thing)**
+
+1. Find service and detect the OS?
+
+2. What is the password for user X of the FTP server?
+
+3. Which user X's phone number?
+
+4. What is the password hidden in the .jpeg file?
+
+5. What is the hidden message in the .txt file?
+
+6. Find X from .pcap file
+
+7. Crack X user hash
