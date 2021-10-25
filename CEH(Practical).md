@@ -155,7 +155,7 @@ https://www.youtube.com/watch?v=fdb3U2EFLzo
 ```python
 ```
 
-**Example Questions**
+**Example Question Types**
 **(I can't disclose real questions for NDA thing)**
 
 1. Find service and detect the OS?
