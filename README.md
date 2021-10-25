@@ -1,4 +1,4 @@
-# Ec-Council-CEH-Practical--Guide-For-Exam
+# EC-Council-CEH-Practical--Guide-For-Exam
 Follow this repo if you are taking CEH(Practical) Exam By EC-Council
 
 I received CEH scholarship 2021 and got the exam voucher at $99 
