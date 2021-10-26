@@ -35,25 +35,23 @@ https://www.eccouncil.org/campaigns/ceh/ceh-practical-scholarship-2021/#Apply_no
 
 3.  Sqlmap
 
-4.  John
+4.  John / Hashcat
 
-5.  Hashcat
+5.  Metasploit / Netcat
 
-6.  Metasploit / Netcat
+6.  Wireshark or Tcpdump
 
-7.  Wireshark or Tcpdump
+7.  OpenStego
 
-8.  OpenStego
+8.  Snow
 
-9.  Snow
+9. Veracrypt
 
-10. Veracrypt
+10. HashCalc
 
-11. HashCalc
+11. CrypTool
 
-12. CrypTool
-
-13. Burpsuite
+12. Burpsuite
 
 ```
 
