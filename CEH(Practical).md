@@ -45,7 +45,7 @@ https://www.eccouncil.org/campaigns/ceh/ceh-practical-scholarship-2021/#Apply_no
 
 8.  Snow
 
-9. Veracrypt
+9.  Veracrypt
 
 10. HashCalc
 
